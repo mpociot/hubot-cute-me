@@ -13,11 +13,11 @@
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarlaf/hubot-cute-me.git"
+    "url": "https://github.com/mpociot/hubot-cute-me.git"
   },
 
   "bugs": {
-    "url": "https://github.com/sarlaf/hubot-cute-me/issues"
+    "url": "https://github.com/mpociot/hubot-cute-me/issues"
   },
 
   "dependencies": {
